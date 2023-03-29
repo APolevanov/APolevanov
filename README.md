@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apolevanov" alt="apolevanov" /></a> </p>
 
-- 🔭 I’m currently working on [Vera social App](vera.social)
+- 🔭 I’m currently working on Chatocracy App
 
 - 💬 Ask me about **Django, DRF,**
 
