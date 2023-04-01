@@ -76,6 +76,6 @@ I am an active member of several online technical communities, where I provide h
 
 - [Stack Overflow](https://stackoverflow.com/users/21541012/anton-polevanov) - Offering help and answering questions related to Django, DRF, JavaScript, and more.
 - [GitHub Discussions](https://github.com/apolevanov?tab=discussions) - Engaging with other developers on various topics and offering solutions to issues.
-- [Django Forum](https://forum.djangoproject.com/u/polevanov/)) - Sharing insights, experiences, and helping others with Django-related questions.
+- [Django Forum](https://forum.djangoproject.com/u/polevanov/) - Sharing insights, experiences, and helping others with Django-related questions.
 
 If you have any questions or want to connect, feel free to reach out to me via email at [alulimmerkar@gmail.com](mailto:alulimmerkar@gmail.com) or on [LinkedIn](https://linkedin.com/in/apolevanov).
