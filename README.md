@@ -68,22 +68,6 @@
 - Frequent attendee of [Local JavaScript Meetups](https://www.meetup.com/topics/javascript/) - Meetups for JavaScript developers to share knowledge and network.
 <h3 align="left">Blog and Tutorials:</h3>
 
-I maintain a [technical blog](https://apolevanov.github.io/blog) where I share my experiences, insights, and tutorials on various topics, such as:
-
-- Building RESTful APIs with Django and DRF
-- Creating real-time applications with Django Channels
-- Web development best practices and tips
-- Performance optimization techniques for web applications
-- Introduction to cloud services like AWS and GCP
-
-<h3 align="left">Open Source Contributions:</h3>
-
-As a strong believer in open source, I have contributed to various projects, such as:
-
-- [Django](https://github.com/django/django) - A high-level Python web framework that enables rapid development of secure and maintainable websites.
-- [Django REST Framework](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit for building Web APIs.
-- [Vue.js](https://github.com/vuejs/vue) - A progressive JavaScript framework for building user interfaces.
-
 Check my [GitHub profile](https://github.com/apolevanov) for more details on my open source contributions.
 
 <h3 align="left">Community Involvement:</h3>
