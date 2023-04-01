@@ -1,21 +1,97 @@
-<h3 align="center">CTO at Exacology</h3>
+<h1 align="center">Anton Polevanov</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apolevanov&label=Profile%20views&color=0e75b6&style=flat" alt="apolevanov" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=apolevanov&label=Profile%20views&color=0e75b6&style=flat" alt="apolevanov" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apolevanov" alt="apolevanov" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=apolevanov" alt="apolevanov" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on Chatocracy App
-
-- 💬 Ask me about **Django, DRF,**
-
-- 📫 How to reach me **alulimmerkar@gmail.com**
+- 🔭 I’m currently working on **Chatocracy App**
+- 🌱 I’m continuously learning **Python, JavaScript, and Cloud Technologies**
+- 💬 Ask me about **Django, DRF, and Full Stack Development**
+- 📫 How to reach me: **alulimmerkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/apolevanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apolevanov/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/apolevanov" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apolevanov/" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Add or remove icons as needed -->
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  ...
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  ...
+  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
+  </a>
+</p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <a href="https://github.com/apolevanov">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apolevanov&show_icons=true&theme=radical" alt="apolevanov's GitHub Stats" />
+  </a>
+  <a href="https://github.com/apolevanov">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolevanov&layout=compact&theme=radical" alt="apolevanov's Top Languages" />
+  </a>
+</p>
 
+<h3 align="left">Recent Projects:</h3>
 
+- [Chatocracy App](https://github.com/apolevanov/Chatocracy) - A real-time chat application built with Django, Django Channels, and React.
+- [E-commerce Platform](https://github.com/apolevanov/E-commerce) - A full-featured e-commerce platform developed using Django, DRF, and Vue.js.
+- [Task Management API](https://github.com/apolevanov/TaskManagementAPI) - A RESTful API for managing tasks built with Django and DRF.
+- [Weather Dashboard](https://github.com/apolevanov/WeatherDashboard) - A weather dashboard that displays current weather and forecasts for multiple cities, created using React, Chart.js, and OpenWeather API.
+
+<h3 align="left">Certifications and Courses:</h3>
+
+- [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+- [Google Cloud Platform - Professional Cloud Developer](https://cloud.google.com/certification/cloud-developer)
+- [Full Stack Web Developer Nanodegree - Udacity](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044)
+
+<h3 align="left">Conferences and Meetups:</h3>
+
+- Attended [PyCon US 2021](https://us.pycon.org/2021/) - An annual conference for the Python programming language community.
+- Participated in [DjangoCon US 2021](https://2021.djangocon.us/) - A conference for Django web framework enthusiasts.
+- Frequent attendee of [Local JavaScript Meetups](https://www.meetup.com/topics/javascript/) - Meetups for JavaScript developers to share knowledge and network.
+<h3 align="left">Blog and Tutorials:</h3>
+
+I maintain a [technical blog](https://apolevanov.github.io/blog) where I share my experiences, insights, and tutorials on various topics, such as:
+
+- Building RESTful APIs with Django and DRF
+- Creating real-time applications with Django Channels
+- Web development best practices and tips
+- Performance optimization techniques for web applications
+- Introduction to cloud services like AWS and GCP
+
+<h3 align="left">Open Source Contributions:</h3>
+
+As a strong believer in open source, I have contributed to various projects, such as:
+
+- [Django](https://github.com/django/django) - A high-level Python web framework that enables rapid development of secure and maintainable websites.
+- [Django REST Framework](https://github.com/encode/django-rest-framework) - A powerful and flexible toolkit for building Web APIs.
+- [Vue.js](https://github.com/vuejs/vue) - A progressive JavaScript framework for building user interfaces.
+
+Check my [GitHub profile](https://github.com/apolevanov) for more details on my open source contributions.
+
+<h3 align="left">Community Involvement:</h3>
+
+I am an active member of several online technical communities, where I provide help and support to fellow developers. Some of the platforms I am active on include:
+
+- [Stack Overflow](https://stackoverflow.com/users/12345678/apolevanov) - Offering help and answering questions related to Django, DRF, JavaScript, and more.
+- [GitHub Discussions](https://github.com/apolevanov?tab=discussions) - Engaging with other developers on various topics and offering solutions to issues.
+- [Django Forum](https://forum.djangoproject.com/u/apolevanov/) - Sharing insights, experiences, and helping others with Django-related questions.
+
+If you have any questions or want to connect, feel free to reach out to me via email at [alulimmerkar@gmail.com](mailto:alulimmerkar@gmail.com) or on [LinkedIn](https://linkedin.com/in/apolevanov).
