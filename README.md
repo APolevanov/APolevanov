@@ -74,7 +74,7 @@ Check my [GitHub profile](https://github.com/apolevanov) for more details on my 
 
 I am an active member of several online technical communities, where I provide help and support to fellow developers. Some of the platforms I am active on include:
 
-- [Stack Overflow]([https://stackoverflow.com/users/12345678/apolevanov](https://stackoverflow.com/users/21541012/anton-polevanov)) - Offering help and answering questions related to Django, DRF, JavaScript, and more.
+- [Stack Overflow](https://stackoverflow.com/users/21541012/anton-polevanov) - Offering help and answering questions related to Django, DRF, JavaScript, and more.
 - [GitHub Discussions](https://github.com/apolevanov?tab=discussions) - Engaging with other developers on various topics and offering solutions to issues.
 - [Django Forum](https://forum.djangoproject.com/u/apolevanov/) - Sharing insights, experiences, and helping others with Django-related questions.
 
